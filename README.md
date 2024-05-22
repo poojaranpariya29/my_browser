@@ -1,16 +1,9 @@
-# my_browser
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240522_204427](https://github.com/poojaranpariya29/my_browser/assets/148708401/c4242067-e877-4c3b-8829-1fcb32703571)
+![Screenshot_20240522_204541](https://github.com/poojaranpariya29/my_browser/assets/148708401/99cabeaa-dff6-48f3-828f-49d817086da3)
+![Screenshot_20240522_204522](https://github.com/poojaranpariya29/my_browser/assets/148708401/38a98ac9-37b8-4fac-a4d8-7d44389dcaa7)
+![Screenshot_20240522_204505](https://github.com/poojaranpariya29/my_browser/assets/148708401/9307994e-fcf4-41dd-9a51-9c820ed396bc)
+![Screenshot_20240522_204427](https://github.com/poojaranpariya29/my_browser/assets/148708401/65eb5f4a-b8e4-4cc6-a100-72442cfd8143)
+![Screenshot_20240522_204218](https://github.com/poojaranpariya29/my_browser/assets/148708401/e1d42bdb-4187-4ed6-810b-db7b8f302327)
+![Screenshot_20240522_205246](https://github.com/poojaranpariya29/my_browser/assets/148708401/481b3bdf-c553-4bbe-a833-01180425393c)
+![Screenshot_20240522_205005](https://github.com/poojaranpariya29/my_browser/assets/148708401/b1f78762-b709-4269-9b4c-a14cd7671121)
+![Screenshot_20240522_204619](https://github.com/poojaranpariya29/my_browser/assets/148708401/3923b43a-b164-4671-8ec2-022333b1dcd0)
